@@ -1,4 +1,6 @@
 Cell-Phone-Search
 =================
 
-Basic algorithm for searching cell phone number
+Basic algorithm for searching cell phone number.
+
+Implemented in C++.

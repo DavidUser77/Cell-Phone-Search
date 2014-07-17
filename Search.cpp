@@ -170,6 +170,27 @@ int main()
 		return 0;
 	//It is the end of the program 'Search By Number'
 	}
+	
+	if (program==3)
+	{
+		//The first part of the third part of the program
+		cout<<"=================================HELP==========================================="<<endl;
+		cout<<endl;
+		//Heading
+		cout<<"This program can be used in cell phones and some programs,where finding of numbers is essential"<<endl;
+		cout<<"This program is made for searching numbers by their code or number"<<endl;
+		cout<<"For checking all tesrs do this steps"<<endl;
+		cout<<endl;
+		cout<<"\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a"<<endl;
+		//The step part of using program 
+		cout<<"1."<<" "<<"Write the searching code or number"<<endl;
+		cout<<"2."<<" "<<"Secondly you have to input the correct number of the tests"<<endl;
+		cout<<"3."<<" "<<"Input all numbers,that have to be checked"<<endl;
+		cout<<endl;
+		cout<<"For checking results run it again"<<endl;
+		//The end of the third part
+		system("pause");
+	}
 
 	
 	return 0;
